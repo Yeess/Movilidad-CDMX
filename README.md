@@ -4,4 +4,5 @@ Simulación de la movilidad en la CDMX asumiendo una distribucion normal centrad
 
 
 
-![ScreenShot](https://github.com/Yeess/Movilidad-CDMX/blob/master/simulacion_CDMX.jpeg)
+[![ScreenShot](https://github.com/Yeess/Movilidad-CDMX/blob/master/Simulacion_CDMX.png)]
+(https://youtu.be/-3XED6-n9kA)
